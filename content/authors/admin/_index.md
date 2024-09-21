@@ -3,11 +3,11 @@
 title: Nuthdanai Wangpratham
 
 # Name pronunciation (optional)
-name_pronunciation: Ph.D CQF
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Pasin
-last_name: Marupanthorn
+first_name: Nuthdanai
+last_name: Wangpratham
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Quantitative Researcher
+role: Quantitative Analyst
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: QuantCorner Research Laboratory
-    url: https://openai.com/
+  - name: Kasikornasset Management
+    URL: https://www.kasikornasset.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
