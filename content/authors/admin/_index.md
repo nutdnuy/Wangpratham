@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Pasin Marupanthorn
+title: Nuthdanai Wangpratham
 
 # Name pronunciation (optional)
 name_pronunciation: Ph.D CQF
